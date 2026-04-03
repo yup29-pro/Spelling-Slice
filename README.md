@@ -1,4 +1,4 @@
-# ✂️ Spelling Slice
+# 🗡️ Spelling Slice
 
 An educational gamified spelling game built with Python & Pygame-CE.
 Slice the flying letters to spell the target word — designed for kids aged 5–10!
